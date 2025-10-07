@@ -1,7 +1,7 @@
 <!-- Optional banner or logo -->
 <!-- ![RunEdgeAI Logo](https://raw.githubusercontent.com/RunEdgeAI/.github/main/assets/logo.png) -->
 
-# 🧠⚡ EdgeAI -— building the foundation for agentic AI at the edge.
+# 🧠⚡ EdgeAI — building the foundation for agentic AI at the edge.
 
 **Edge-native AI infrastructure + agent toolkit for high-performance intelligent systems**
 
