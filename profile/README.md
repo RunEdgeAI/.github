@@ -64,3 +64,13 @@ We ship proprietary, hardware-accelerated micro-models optimized for specialized
 | **Painless & extensible** | Built for integration, extension, and rapid adoption |
 
 ---
+
+# **Get Started**
+-    Install CLI: `pip install edgeai-cli`
+-    Login to EdgeAI: `edgeai login`
+-    Download products: `edgeai install`
+
+# **Supported Hardware**
+-    Apple Silicon
+-    NVIDIA GPUs (incl. Jetson where applicable)
+-    Edge / Embedded devices
