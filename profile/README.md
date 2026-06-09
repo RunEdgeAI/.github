@@ -32,7 +32,7 @@ Edge AI provides a better alternative. We empower mobility, robotics, defense, a
     A modular runtime and bare-metal orchestration engine designed for connecting and scheduling on-device AI components.
 
 #### For Enterprise Users
-We ship proprietary, hardware-accelerated micro-models optimized for specialized edge runtimes:
+We ship proprietary, hardware-accelerated models optimized for specialized edge runtimes:
 -   [**Automatic Speech Recognition (ASR)**](https://www.runedge.ai/products/voice-ai)
 
      On-device real-time transcription, voice activity detection, and echo cancellation working together so your agent hears clearly and responds at exactly the right moment. Runs in push-to-talk or always-on mode.
